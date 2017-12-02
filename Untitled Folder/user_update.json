@@ -1,0 +1,10 @@
+{
+   "oldCamp":{
+    "name": "Copa do CEUB",
+    "teams": ["SKT", "INTZ", "SK", "paiN", "CNB", "Remo"]
+   },
+   "newCamp":{
+      "name":"Copa do CEUB 2017",
+      "teams": ["SKT", "INTZ", "SK", "paiN", "CNB", "Remo"]
+   }
+}
